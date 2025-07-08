@@ -1,4 +1,4 @@
-# Cartooning the Image - Colab Notebook
+# Cartooning the Image 
 
 This repository contains a Jupyter Notebook (`Cartooning-the-image.ipynb`) demonstrating how to convert an input image into a cartoon-like version using OpenCV in Python. The code is intended to run in Google Colab, but can be adapted for local use with minor changes.
 
